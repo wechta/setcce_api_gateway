@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+.DS_Store
+target/
+*.iml
+*.ipr
+*.iws
+*.swp
+.idea
+.forge_settings
+.factorypath
+.externalToolBuilders
+rebuild.sh
+nb-configuration.xml
+**/dependency-reduced-pom.xml
